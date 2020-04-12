@@ -8,4 +8,4 @@
 ### Additionally, there are 2 Videoclips which will give you a run-through of what to expect in the game and the internal sections of each script.
 Run-Through             |  Code-Explaination
 :-------------------------:|:-------------------------:
-[![](http://img.youtube.com/vi/DAlOQsLwaeA/0.jpg)](http://www.youtube.com/watch?v=DAlOQsLwaeA "The Alien & The Princess.") | [![](http://img.youtube.com/vi/DAlOQsLwaeA/0.jpg)](http://www.youtube.com/watch?v=DAlOQsLwaeA "The Alien & The Princess.")
+[![](http://img.youtube.com/vi/DAlOQsLwaeA/0.jpg)](http://www.youtube.com/watch?v=DAlOQsLwaeA "The Alien & The Princess.") | Space for the 2nd video.
